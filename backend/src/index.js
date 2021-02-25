@@ -77,16 +77,3 @@ app.listen(3333, () => {
     console.log('🚀 back-end started')
 });
 
-//What is genesis? sistema de chat bot, atendimento, chat e etc. usada por telefonica e itau
-
-//O que e platinum? o que e 1515?
-//O que e v? cliente v?
-//Qual diferenca entre atendimento 5555 e 1515?
-
-
-//Diogo Costa De Souza: Mostrou fluxo e desenho de solução
-//Daniel jose dru: terceiro?
-//Fernanda melim: scrum master?
-
-
-//
